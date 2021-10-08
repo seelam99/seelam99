@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seelam99
 - 👀 I’m interested in coastal processes modelling
-- 🌱 I’m currently learning ihFOAM
+- 🌱 I’m currently learning openFOAM & ihFOAM
 - 💞️ I’m looking to collaborate on coastal processes modelling
 - 📫 You can reach me on my email
 
